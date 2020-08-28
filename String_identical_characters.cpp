@@ -11,7 +11,7 @@ int main(){
   k1 top=-1;
   k1 k;
   cin>>k;
-  cin>>s;
+  getline(cin,s);
   char stack[s.length()];
   k1 freq[s.length()];
   stack[++top]=s[0];
