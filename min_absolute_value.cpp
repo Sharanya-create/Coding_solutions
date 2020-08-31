@@ -12,7 +12,7 @@ Inputs:
 Output :
 Minimum value=|4-1|=3
 Explanation:Raju can form 3 pairs with value |4-(-6)|=10   |1-4|=3 and |(-6)-1|=7 and minimum absolute value will be 3
-Note:You cannot change values of weights from positive to negative or vice-versa(Ex -6 if taken as 6 then minimum might be 6-4=2 which should be avoided)
+Note:You cannot change values of weights from positive to negative or vice-versa(Ex -6 if taken as 6 then minimum might be 6-4=2 which should be avoided)*/
 
 
 
